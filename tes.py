@@ -9,6 +9,6 @@ db = mysql.connector.connect(
 if db.is_connected():
     print("Bershasil terhubung ke database")
 
-a= input("ïnput coy> ")
-b= " mantap kali bos"
+a= input("input> ")
+b= " manjiw"
 print(a+b)
